@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 public class ConnectDB{
     final static String JDBC_DRIVER="com.mysql.jdbc.Driver";
-    final static String DB_URL="jdbc:mysql://localhost:3306/testconnection";
+    final static String DB_URL="jdbc:mysql://localhost:3306/iuea_lms";
     
     final static String USER="root";
     final static String PASS="";
